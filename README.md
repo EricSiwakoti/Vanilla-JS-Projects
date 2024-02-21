@@ -79,3 +79,43 @@
 - ## _Responsive Mobile Menu_
 
   ![Scroll Top](./Screenshots/20.%20Responsive%20Mobile%20Menu.png)
+
+- ## _Todo App_
+
+  ![Todo App](./Screenshots/21.%20Todo%20App.png)
+
+- ## _Notes App_
+
+  ![Notes App](./Screenshots/22.%20Notes%20App.png)
+
+- ## _BMI Calculator_
+
+  ![BMI Calc](./Screenshots/23.%20BMI%20Calculator.png)
+
+- ## _Digital Clock_
+
+  ![Digital Clock](./Screenshots/24.%20Digital%20Clock.png)
+
+- ## _Weight Converter_
+
+  ![Weight Converter](./Screenshots/25.%20Weight%20Converter.png)
+
+- ## _Temperature Converter_
+
+  ![Temperature Conv](./Screenshots/26.%20Temperature%20Converter.png)
+
+- ## _Running Game_
+
+  ![Running Game](./Screenshots/27.%20Running%20Game.png)
+
+- ## _Word Count Tool_
+
+  ![Word Count](./Screenshots/28.%20Word%20Count%20Tool.png)
+
+- ## _Accordion_
+
+  ![Accordion](./Screenshots/29.%20Accordion.png)
+
+- ## _Random Joke Generator_
+
+  ![Random Joke](./Screenshots/30.%20Random%20Joke%20Generator.png)
